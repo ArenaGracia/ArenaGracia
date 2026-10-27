@@ -52,11 +52,5 @@ Software engineer
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ArenaGracia&bg_color=00000000&color=dc3284&line=dc3284&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/ArenaGracia">ArenaGracia</a></i></p>
